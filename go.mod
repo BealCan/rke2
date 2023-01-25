@@ -57,7 +57,7 @@ require (
 	github.com/k3s-io/helm-controller v0.8.3
 	github.com/pkg/errors v0.9.1
 	github.com/rancher/k3s v1.19.2-0.20201208230637-989c936993fb
-	github.com/rancher/wrangler v0.6.1
+	github.com/rancher/wrangler v0.7.5
 	github.com/sirupsen/logrus v1.6.0
 	github.com/urfave/cli v1.22.2
 	golang.org/x/crypto v0.0.0-20201002170205-7f63de1d35b0 // indirect
