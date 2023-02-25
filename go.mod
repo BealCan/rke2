@@ -60,7 +60,7 @@ require (
 	github.com/rancher/wrangler v0.6.1
 	github.com/sirupsen/logrus v1.6.0
 	github.com/urfave/cli v1.22.2
-	golang.org/x/crypto v0.0.0-20201002170205-7f63de1d35b0 // indirect
+	golang.org/x/crypto v0.1.0 // indirect
 	google.golang.org/grpc v1.31.1
 	k8s.io/api v0.19.0
 	k8s.io/apimachinery v0.19.0
